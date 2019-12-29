@@ -16,7 +16,7 @@ public class DemoApplication {
 	String hello() {
 		
 		return "Hi Devendra!!!!!!!!, How are you? "
-				 + "\n This is your updated Application HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH";
+				 + "\n This is your updated Application";
 	}
 	
 
