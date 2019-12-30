@@ -15,7 +15,7 @@ public class DemoApplication {
 	@RequestMapping("/")
 	String hello() {
 		
-		return "Welcomw To D4.";
+		return "Welcome To D4 Insight.";
 	}
 	
 
